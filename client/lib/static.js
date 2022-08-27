@@ -15,16 +15,16 @@ export const news = [
 
 export const whoToFollow = [
   {
-    name: "Rafeh Qazi",
-    handle: "@cleverqazi",
+    name: "Gary Vee",
+    handle: "@garyvee",
     avatar:
-      "https://pbs.twimg.com/profile_images/1472075657920221184/JhAI3WGm_400x400.jpg",
+      "https://yt3.ggpht.com/AtPD0aU_p2NXg03G20ZkYis7WZhTl965kymLTJsrFtYF-JpFhTR-FUSOLf7rkcsPoHpKzW49jQ=s900-c-k-c0x00ffffff-no-rj",
   },
   {
-    name: "David Rakosi",
-    handle: "@0xDavidRakosi",
+    name: "Next.js",
+    handle: "@next_js",
     avatar:
-      "https://pbs.twimg.com/profile_images/1282571486465855491/98xO6N0F_400x400.jpg",
+      "https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png",
   },
   {
     name: "Sanity.io",
