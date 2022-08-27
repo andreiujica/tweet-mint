@@ -17,7 +17,7 @@ const style = {
   newsItemImage: `rounded-xl h-14 w-14 object-cover`,
   followAvatarContainer: `w-1/6`,
   followAvatar: `rounded-full h-[40px] w-[40px]`,
-  profileDetails: `flex-1`,
+  profileDetails: `ml-3 flex-1`,
   name: `font-bold`,
   handle: `text-[#8899a6]`,
   followButton: `bg-white text-black px-3 py-1 rounded-full text-xs font-bold`,
